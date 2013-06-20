@@ -130,8 +130,8 @@ msgid "Document scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=
 msgstr "Document gepland voor: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Voorvertoning document</a>"
 
 #: wp-help.php:141
-msgid "M j, Y @ G:i"
-msgstr "M j, Y @ G:i"
+msgid "j M, Y @ G:i"
+msgstr "j M, Y @ G:i"
 
 #: wp-help.php:142
 msgid "Document draft updated. <a target=\"_blank\" href=\"%s\">Preview document</a>"
